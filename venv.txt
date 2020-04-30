@@ -1,0 +1,7 @@
+#ENABLING VIRTUAL ENVIRONMENT (Windows)
+
+python -m venv %systemdrive%%homepath%\my-venv
+
+%systemdrive%%homepath%\my-venv\Scripts\activate.bat
+
+deactivate
